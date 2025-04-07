@@ -10,6 +10,8 @@ material = "1.12.0"
 activity = "1.10.1"
 constraintlayout = "2.2.1"
 supportAnnotations = "28.0.0"
+runner = "1.6.2"
+rules = "1.6.1"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -21,6 +23,8 @@ material = { group = "com.google.android.material", name = "material", version.r
 androidx-activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
 androidx-constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
 support-annotations = { group = "com.android.support", name = "support-annotations", version.ref = "supportAnnotations" }
+androidx-runner = { group = "androidx.test", name = "runner", version.ref = "runner" }
+androidx-rules = { group = "androidx.test", name = "rules", version.ref = "rules" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }

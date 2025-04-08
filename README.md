@@ -1,3 +1,9 @@
+Name: Hermenegildo Zuzi Tati
+Student number: ST10494935
+Course: HMAW – Higher Certificate of Mobile Aplication and Web Development
+Module: IMAD5111
+(Assigment)
+
 My repository link - https://github.com/hermetati46/imad-assg
 
 My youtube video link - https://youtu.be/RsBP1cKbhDg
